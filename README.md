@@ -1,5 +1,7 @@
 # LovelyPancake
 
+<img src="image/lovelypancake.png" alt="image description" width="200" height="200">
+
 LovelyPancake is a general-purpose Python package for machine learning, starting with a robust set of tools for image segmentation. It currently features implementations of U-Net-based models with plans to extend into other machine learning domains.
 
 ## Installation
