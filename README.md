@@ -10,7 +10,7 @@ LovelyPancake is a general-purpose Python package for machine learning, starting
 To install LovelyPancake, run:
 
 ```bash
-pip install lovelypancake
+pip install lovely-pancake
 ```
 
 
